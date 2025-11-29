@@ -24,7 +24,14 @@ The research followed a four-week schedule:
 - **Week 4:** Final analysis, interpretation, and reporting
 
 ## Introduction
-...  
+Remote and hybrid work has changed how groups work, team up, and help workers do their jobs. Even though these flexible work styles grew fast during and after COVID-19, organizations are still trying to figure out their impact on daily work activities and the quality of their work. Studies say that remote and hybrid work can give workers more freedom and a better work–life balance, but they can also cause problems with teamwork, interpersonal communication, and maintaining a consistent workflow (Wang et al., 2021; Allen, Golden and Shockley, 2015). At the same time, working in an office maintains benefits like spontaneous conversations and easier teamwork, which have generally led to stronger team bonds and better information sharing (Bloom et al., 2015).
+
+In this project, our team looked into how different work setups—specifically remote, hybrid, and office-based—change what workers experience in four key areas: **time management, task completion, collaboration quality, and job satisfaction**. We picked these areas because they are key to how well workers and groups perform, and they are widely discussed in current studies on flexible work styles. Knowing how workers feel about their effectiveness and satisfaction in different work settings is important for organizations that want to balance flexibility with productivity and strong teamwork (Choudhury, Foroughi and Larson, 2020; Microsoft, 2022).
+
+To look into these questions, we created and distributed an online survey to gather insights about remote and office-based work experiences. The survey was completed by workers in fully remote, hybrid, or office-based roles, which allowed us to compare how they experience the same job-related factors across different work styles. Our goal was not only to find out which work style seems to support workers the most, but also to understand why individuals experience these arrangements differently.
+
+This report shares the findings of our study. We start by explaining our methodology, including how we designed the survey, selected our sample, and prepared the data. We then present our results, highlighting trends observed across the three work arrangement groups. In the discussion section, we connect our findings to existing research and critically explore their implications. Lastly, we offer actionable recommendations that organizations can use when planning employee work arrangements and designing effective hybrid workplace strategies.
+
 
 ## Methodology
 ... 

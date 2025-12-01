@@ -34,7 +34,7 @@ This report shares the findings of our study. We start by explaining our methodo
 
 
 ## Methodology
-this is an example from my Branch...Usama
+this an example
 
 ## Results
 ... 

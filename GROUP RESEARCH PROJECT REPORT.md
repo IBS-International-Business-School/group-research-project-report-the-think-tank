@@ -43,7 +43,14 @@ This report shares the findings of our study. We start by explaining our methodo
 ... 
 
 ## Recommendations
-... 
+While many employees prefer remote work full-time, the data shows they get distracted more at home and are less collaborative to the same degree. This can negatively impact teamwork, productivity, and the quality of their work overall.
+ 
+A structured **hybrid model** is recommended, where:
+- ***Remote days are used for focused, individual tasks***
+- ***Office days are reserved for collaboration, problem-solving, and team alignment.***
+ 
+A balance like this should help employees increase productivity, collaborate more smoothly, and increase job satisfaction in the workplace. This approach also provides them flexibility without losing the benefits of face-to-face interaction and may retain them in the company.
+ 
 
 ## Reflection on Team Process
 ... 

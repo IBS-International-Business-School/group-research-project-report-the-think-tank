@@ -221,7 +221,11 @@ We asked everyone what work setup would make them the happiest and most producti
 ***Clustered Column Chart – Preferred vs Actual Work Arrangement***
 
 ---
+## Analysis
 
+Our analysis found that employees working from home managed their time and completed tasks more effectively than those in the office. Remote workers scored about 23% higher on time management and 12% higher on productivity, and both differences were statistically significant with p-values below 0.001, meaning there's less than a 0.1% chance these results occurred by random chance. On the other hand, office workers collaborated better with their colleagues, scoring 24% higher in teamwork (p < 0.001). So working from home means more interruptions and more control over the schedule, while being in the office allows for quick conversations and spontaneous problem-solving with teammates.
+
+---
 ## Discussion
 
 Findings show hybrid workers are most satisfied, especially when it comes to managing their time, being productive, and job satisfaction. This backs up research that says when people can work flexibly, it’s easier for them to plan their day and find a good balance between their job and personal life (Galea, Houkes and De Rijk, 2013).

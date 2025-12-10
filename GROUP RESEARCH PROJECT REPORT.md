@@ -8,7 +8,7 @@
 4. Omkar Pamidi
 
 ## Declaration
-[ChatGPT 5.0] was used to [brainstorm themes and structure] for this group research project report on [topic]. Prompt: '...' No AI-generated text is included in the final submission. Accessed: [Date]. Available at: https://chat.openai.com/.
+[ChatGPT 5.0] was used to [brainstorm themes and structure] for this group research project report on [Remote Work and Productivity Trends Project]. Prompt: '...' No AI-generated text is included in the final submission. Accessed: [26/11/2025]. Available at: https://chatgpt.com/share/6938c1e1-dd98-8003-aec7-2f298bbaeafc
 
 We have retained a complete set of raw data, including questionnaires (papers completed by hand or record downloaded from the online survey platform), recordings, and/or transcripts of interviews, secondary data, etc., as well as data analysis files and documents. 
 
@@ -268,3 +268,7 @@ Nunnally, J.C., 1978. Psychometric Theory: 2d Ed. McGraw-Hill.
 Wang, B. et al. (2020) 'Achieving effective remote working during the COVID‐19 Pandemic: A work design perspective,' Applied Psychology, 70(1), pp. 16–59. https://doi.org/10.1111/apps.12290.
 
 ### Appendices
+
+![Analysis](Graphs/Analysis.png)
+
+Analysis preview on Excel : [Link to access the analysis](https://ibsbhu-my.sharepoint.com/:x:/g/personal/opamidi_ibs-b_hu/IQBsSgGXBxOSTKSjOlKRckrsAbVKWqiL5pAPnX7syzb_ARc?CID=aa949756-ea07-c2b2-50dd-fa22a9020444)

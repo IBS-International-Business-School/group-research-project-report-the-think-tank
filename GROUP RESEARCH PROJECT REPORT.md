@@ -1,5 +1,5 @@
-# <ins> Group Research Project Report</ins>
-# <ins>Remote Work and Productivity Trends Project</ins>
+# Group Research Project Report
+# Remote Work and Productivity Trends Project
 
 ## Team Members:
 1. Kelvin Acquah
@@ -17,20 +17,12 @@ Our study looked at how remote, hybrid, and in-office setups impact time managem
 
 In general, employees valued flexibility, and most wanted to work fully remotely or in a hybrid setup. So, to promote employee well-being, we suggest a hybrid model that mixes remote work with regular in-person meetings to avoid losing employees.
 
-The research followed a four-week schedule:
-- **Week 1:** Literature review and survey design  
-- **Week 2:** Pilot testing and data collection  
-- **Week 3:** Data cleaning and preliminary analysis  
-- **Week 4:** Final analysis, interpretation, and reporting
-
 ## Introduction
 Remote and hybrid work has changed how groups work, team up, and help workers do their jobs. Even though these flexible work styles grew fast during and after COVID-19, organizations are still trying to figure out their impact on daily work activities and the quality of their work. Studies say that remote and hybrid work can give workers more freedom and a better work-life balance. But they can also cause problems with teamwork, interpersonal communication, and maintaining a consistent workflow. (Wang et al., 2021; Allen, Golden and Shockley, 2015)
 At the same time, working in an office maintains benefits like spontaneous conversations and easier teamwork, which have generally led to stronger team bonds and better information sharing. (Bloom et al., 2015).
 
 In this project, our team looked into how different work setups—specifically remote, hybrid, and office-based—change what workers experience in four key areas: time management, task completion, collaboration quality, and job satisfaction.
 We picked these areas because they're key to how well workers and groups do, and they're talked about a lot in current studies on flexible work styles. Knowing how workers feel about how well they're doing and how happy they are in different work settings is key for groups that want to balance being flexible with being productive and working well together. (Choudhury, Foroughi and Larson, 2020).
-
-To look into these questions, we created and gave out an online survey to learn about remote and office work experiences. The survey was for workers in fully remote, hybrid, or office-based roles, so we could compare how they experience the same job-related things in different work styles. Our goal was not just to find out which work style seems to help workers the most, but also to get why workers experience these styles in different ways. This report shares what we found in our study. We start by explaining how we did our work, including how we designed the survey, picked our sample, and got the data ready. Then, we share our results, pointing out trends in the three work style groups. In the discussion, we link what we found to what other studies say and think hard about what it all means. Lastly, we provide recommendations that you can use like strategizing the establishment of employee base and developing effective hybrid workplace strategies.
 
 ---
 
@@ -73,7 +65,6 @@ Each construct included several statements rated on a 5-point agreement scale. I
 The link was shared through:
 - WhatsApp  
 - Facebook  
-- Snapchat  
 - Friends, classmates, and colleagues  
 
 We picked these ways to share the survey because they're easy to get to and fast, which fits the time restrictions. Although convenience sampling limits generalisability, it is commonly used in exploratory research (Etikan et al., 2016).
@@ -178,6 +169,7 @@ Key pattern:
 - Hybrid workers think collaboration is better in the office than when they’re working remotely.
 
 ![Chart 5](<Graphs/Chart 5.png>)
+
 ***Figure 5: Collaboration Remote vs Office***
 
 ### 3.3 Office Productivity / Task Completion (Office)
@@ -223,7 +215,13 @@ We asked everyone what work setup would make them the happiest and most producti
 ---
 ## Analysis
 
-Our analysis found that employees working from home managed their time and completed tasks more effectively than those in the office. Remote workers scored about 23% higher on time management and 12% higher on productivity, and both differences were statistically significant with p-values below 0.001, meaning there's less than a 0.1% chance these results occurred by random chance. On the other hand, office workers collaborated better with their colleagues, scoring 24% higher in teamwork (p < 0.001). So working from home means more interruptions and more control over the schedule, while being in the office allows for quick conversations and spontaneous problem-solving with teammates.
+The statistical analysis strongly shows our overall findings. Remote work showed higher average scores for time management (M = 4.5 vs. 3.6), productivity (M = 4.3 vs. 3.9), and satisfaction (M = 4.3 vs. 4.1), and lower distractions (M = 4.0 vs. 2.4). Independent t-tests confirmed these differences as statistically significant (all p < .05) with large effect sizes, such as Cohen’s d = 1.68 for time management and d = 1.20 for productivity, proving meaningful performance gaps between work environments.
+
+We got even stronger proof from hybrid workers (35 people), because they rated both their remote and office days. They handled time better (Mean Diff = 0.63, p < .001) and got more done (Mean Diff = 0.46, p < .001) on remote days. They also liked remote days more (Mean Diff = 0.40, p < .05). The only thing better in the office was teamwork (Mean Diff = –0.51, p < .05). This makes sense since people working together in person helps teamwork.
+
+Finally,  what people liked lines up with the stats. Over 93% of hybrid workers picked remote days. That goes with what we saw in output and happiness. To sum it up, the numbers say that remote work boosts how well people do on their own. Offices are good for teamwork. This is a good case for a hybrid setup that’s got a plan.
+
+***Please refer to appendices 3***
 
 ---
 ## Discussion
@@ -273,6 +271,12 @@ Wang, B. et al. (2020) 'Achieving effective remote working during the COVID‐19
 
 ### Appendices
 
-![Analysis](Graphs/Analysis.png)
+1. Suvery Question : [Survey Question](https://forms.gle/GDHNnRpZp7hHhrt4A)
 
-Analysis preview on Excel : [Link to access the analysis](https://ibsbhu-my.sharepoint.com/:x:/g/personal/opamidi_ibs-b_hu/IQBsSgGXBxOSTKSjOlKRckrsAbVKWqiL5pAPnX7syzb_ARc?CID=aa949756-ea07-c2b2-50dd-fa22a9020444)
+2. Response Analysis : [Work Arrangement & Employee Experience Survey.pdf](<Work Arrangement & Employee Experience Survey.pdf>)
+
+***Note: file results might vary as the employess where still submitting forms when the analysis started***
+
+3. Analysis preview on Excel : [Link to access the analysis](https://ibsbhu-my.sharepoint.com/:x:/g/personal/opamidi_ibs-b_hu/IQBsSgGXBxOSTKSjOlKRckrsAbVKWqiL5pAPnX7syzb_ARc?CID=aa949756-ea07-c2b2-50dd-fa22a9020444)
+
+![Analysis](Graphs/Analysis.png)

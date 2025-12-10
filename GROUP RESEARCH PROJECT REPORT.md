@@ -1,5 +1,5 @@
-# <ins> Group Research Project Report</ins>
-# <ins>Remote Work and Productivity Trends Project</ins>
+# Group Research Project Report
+# Remote Work and Productivity Trends Project
 
 ## Team Members:
 1. Kelvin Acquah
@@ -178,6 +178,7 @@ Key pattern:
 - Hybrid workers think collaboration is better in the office than when they’re working remotely.
 
 ![Chart 5](<Graphs/Chart 5.png>)
+
 ***Figure 5: Collaboration Remote vs Office***
 
 ### 3.3 Office Productivity / Task Completion (Office)
@@ -269,6 +270,12 @@ Wang, B. et al. (2020) 'Achieving effective remote working during the COVID‐19
 
 ### Appendices
 
-![Analysis](Graphs/Analysis.png)
+1. Suvery Question : [Survey Question](https://forms.gle/GDHNnRpZp7hHhrt4A)
 
-Analysis preview on Excel : [Link to access the analysis](https://ibsbhu-my.sharepoint.com/:x:/g/personal/opamidi_ibs-b_hu/IQBsSgGXBxOSTKSjOlKRckrsAbVKWqiL5pAPnX7syzb_ARc?CID=aa949756-ea07-c2b2-50dd-fa22a9020444)
+2. Response Analysis : [Work Arrangement & Employee Experience Survey.pdf](<Work Arrangement & Employee Experience Survey.pdf>)
+
+***Note: file results might vary as the employess where still submitting forms when the analysis started***
+
+3. Analysis preview on Excel : [Link to access the analysis](https://ibsbhu-my.sharepoint.com/:x:/g/personal/opamidi_ibs-b_hu/IQBsSgGXBxOSTKSjOlKRckrsAbVKWqiL5pAPnX7syzb_ARc?CID=aa949756-ea07-c2b2-50dd-fa22a9020444)
+
+![Analysis](Graphs/Analysis.png)
